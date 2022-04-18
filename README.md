@@ -1,11 +1,12 @@
 
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/80311292/163717442-98c508d5-7937-4b6c-8f7b-d20a1fc93bd5.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/80311292/163789810-4e62cb19-48d0-4eae-9922-c9bdfb2ac352.gif" width="400"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm angga prima syahputra</h1>
 <h3 align="center">A passionate mobile development</h3>
+
 
 
 <div id="badges" align= "center">
