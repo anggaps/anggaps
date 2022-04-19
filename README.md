@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/80311292/163789810-4e62cb19-48d0-4eae-9922-c9bdfb2ac352.gif" width="400"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm angga prima syahputra</h1>
