@@ -8,7 +8,7 @@
 <h3 align="center">A passionate mobile development</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v4ACAOgbCDzeZUNj43/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v4ACAOgbCDzeZUNj43/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align= "center">
