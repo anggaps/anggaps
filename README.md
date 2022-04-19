@@ -7,7 +7,9 @@
 <h1 align="center">Hi 👋, I'm angga prima syahputra</h1>
 <h3 align="center">A passionate mobile development</h3>
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v4ACAOgbCDzeZUNj43/giphy.gif" width="200"/>
+</div>
 
 <div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/angga-prima-syahputra/">
