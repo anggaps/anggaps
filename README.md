@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/enZgBY5pnllRPDZYJX/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ekBFWTwHwyeKUSDst0/giphy.gif" width="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm angga prima syahputra</h1>
